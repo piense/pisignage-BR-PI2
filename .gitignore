@@ -13,11 +13,9 @@
 *~
 *.pyc
 /arch
-/board/*
 !/board/raspberrypi
 /boot
 /build
-/configs
 /docs
 /fs
 /linux
